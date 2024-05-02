@@ -4,7 +4,7 @@
 
 # Tema da Aula
 
-Turma Online 0n26 | Python | Semana 9 | 2023 | Professora Daviny Letícia
+Turma Online 0n29 | Python | Semana 6 | 2024 | Professora Daviny Letícia
 
 # Instruções
 
