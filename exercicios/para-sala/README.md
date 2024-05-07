@@ -23,8 +23,6 @@ Crie um programa em Python que solicite ao usuário que insira informações sob
 
 Crie um arquivo JSON chamado "estoque.json" que represente o estoque de uma loja com informações sobre produtos, incluindo nome, preço e quantidade disponível. Escreva um programa em Python que permita exibir na tela os dados.
 
-
-
 # Pacote
 
 **Exercício 1: Crie um Pacote de Matemática**
