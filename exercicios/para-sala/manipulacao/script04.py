@@ -1,0 +1,12 @@
+import csv
+
+dados = [["nome", "idade"], ["Lorena", 28], ["Bruna", 34]]
+
+with open ("pessoas.csv", "w", newline="") as arq_csv:
+    escrita = csv.writer(arq_csv)
+    escrita.writerows(dados)
+
+with open("pessoas.csv", "r") as file_csv:
+    file = csv.reader(file_csv)
+    for linha in file:
+        print(linha)
