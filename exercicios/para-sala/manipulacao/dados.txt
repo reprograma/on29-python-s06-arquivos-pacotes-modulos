@@ -1,0 +1,1 @@
+Ao abrir o meu-arquivo.txt, apos rodar o codigo, o novo texto subscreveu o anterior.
