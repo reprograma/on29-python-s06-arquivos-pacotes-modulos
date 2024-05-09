@@ -1,10 +1,10 @@
 
 
 def formatar_data():
-    import datetime
+    from datetime import datetime
     ano = input("Digite um ano no formato dd/mm/aaaa: ")
-    ano1 = datetime.strptime(ano, '%d/%m/%Y')
-    ano_formatado = ano1.strftime('%Y/%m/%d')
-    print(ano_formatado)
+    ano_formatado = datetime.strptime(ano, "%d/%m/%Y")
+    ano_final = datetime.strftime(ano_formatado, "%Y/%m/%d")
+    print(ano_final)
 
 formatar_data()
