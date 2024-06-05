@@ -1,0 +1,2 @@
+Consegui ler o arquivo
+deu tudo certo
