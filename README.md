@@ -3,7 +3,7 @@
 </h1>
 
 # Reprograma | Bootcamp de Análise de Dados
-## 🚀 Exercícios para Casa 
+## 🚀 Exercícios
 Turma Online on29 | Semana 06 | 2024 | Professora Daviny Letícia
 
 Este repositório contém os exercícios desenvolvidos durante a **Semana 06** do curso de Análise de Dados da turma Online On29 da Reprograma. Os desafios foram realizados para consolidar os conhecimentos adquiridos em aula.  
@@ -30,26 +30,6 @@ Nesta semana, aprendemos como coletar dados de diferentes fontes, como arquivos 
 - Requests → Para coletar dados de APIs.
 - JSON e CSV → Formatos de arquivos comuns para armazenar dados.
 
-
----
-
-
-# Instruções
-
-Antes de começar, vamos organizar nosso setup.
-
-- Fork esse repositório
-- Clone o fork na sua máquina (Para isso basta abrir o seu terminal e digitar `git clone url-do-seu-repositorio-forkado`)
-- Entre na pasta do seu repositório (Para isso basta abrir o seu terminal e digitar `cd nome-do-seu-repositorio-forkado`)
-- [Add outras intrucoes caso necessario]
-
-# Resumo
-
-O que veremos na aula de hoje?
-
-- [Manipulação de Arquivos](#manipulação-de-arquivos-em-python)
-- [Pacote](#pacotes)
-- [Módulo](#módulos-em-python)
 
 ---
 
